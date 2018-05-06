@@ -1,0 +1,24 @@
+#--------------------------------------------------------------------------
+# This file is part of the TYPO3 extension "privacy"
+# Author: patrick.rodacker@the-reflection.de
+#--------------------------------------------------------------------------
+
+#--------------------------------------------------------------------------
+# 1. Licence of ext_icon.gif
+#--------------------------------------------------------------------------
+The image ext_icon.gif has been ported from the lock.png file 
+which belongs to the famfam silk icon set from:
+http://www.famfamfam.com/lab/icons/silk/
+
+It is published under a Creative Commons Attribution 2.5 Licence:
+http://creativecommons.org/licenses/by/2.5/
+
+Thanks to Mark James for sharing this useful icon set!!!
+
+
+
+--------------------------------------------------------------------------
+2. Apache Logfile Privacy Settings
+--------------------------------------------------------------------------
+For advanced privacy configuration of apache log files have a look at:
+http://www.zendas.de/technik/sicherheit/apache/index.html

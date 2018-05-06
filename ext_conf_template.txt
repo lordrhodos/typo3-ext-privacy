@@ -1,0 +1,5 @@
+# Extension configuration variables for the privacy extension
+# @author	Patrick Rodacker 	<patrick.rodacker@the-reflection.de>
+
+  # cat=basic; type=string; label=Instant delete from tables: List of tablenames (csv)
+tables = be_users,fe_users
